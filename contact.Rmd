@@ -1,0 +1,14 @@
+---
+title: "contact"
+author: "Molly Levy"
+date: "2025-01-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Contact Me
+
+Hope this e-mail finds you well!
